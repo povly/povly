@@ -1,16 +1,22 @@
-### Hi there 👋
+### Привет! Меня зовут Поршнев Анатолий. Я фрилансер, веб-разработчик из Беларуси - фуллстек. Работаю с 2019 года
 
-<!--
-**povly/povly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Умения и навыки
 
-Here are some ideas to get you started:
+- Фронтентд, верстка
+    - HTML, PUG
+    - CSS, SASS
+    - JS, jQuery
+    - немного React, JSX
+    - Gulp
+    - Git
+- Бэкенд
+    - PHP
+    - SQL
+    - CMS WordPress + WooCommerce
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Контакты
+
+[VK](https://vk.com/povly0)
+[Instagram](https://www.instagram.com/povly0/)
+[Telegram](https://t.me/povly)
+[Портфолио](https://povlu.ru/)
