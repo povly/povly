@@ -8,7 +8,6 @@
     - JS, jQuery
     - немного React, JSX
     - Gulp
-    - Git
 - Бэкенд
     - PHP
     - SQL
