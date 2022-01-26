@@ -16,6 +16,9 @@
 #### Контакты
 
 [VK](https://vk.com/povly0)
+
 [Instagram](https://www.instagram.com/povly0/)
+
 [Telegram](https://t.me/povly)
+
 [Портфолио](https://povlu.ru/)
