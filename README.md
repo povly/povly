@@ -10,6 +10,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress" alt="WordPress" width="40" height="40"/>&nbsp;
   <img src="https://it-solutions.ua" title="Bitrix" alt="Bitrix" width="40" height="40"/>
 </div>
-
-# 📈 GitHub Activity Graph:
-![Anurag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?povly)
