@@ -7,6 +7,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress" alt="WordPress" width="40" height="40"/>&nbsp;
+  <img src="[https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg](https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg)" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="[https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg](https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg)](https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg)" title="QT" alt="QT" width="40" height="40"/>&nbsp;
   <img src="https://it-solutions.ua" title="Bitrix" alt="Bitrix" width="40" height="40"/>
 </div>
 
