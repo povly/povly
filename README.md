@@ -18,5 +18,5 @@
 
 # :package: Packages for Moonshine
 
-- [**Moonshine Media Manager**](https://github.com/yurizoom/moonshine-media-manager) — менеджер медиафайлов для Moonshine CMS
-- [**Moonshine Image Editor**](https://github.com/povly/moonshine-image-editor) — редактор изображений для Moonshine CMS
+- [**Moonshine Media Manager**](https://github.com/yurizoom/moonshine-media-manager) — media file manager
+- [**Moonshine Image Editor**](https://github.com/povly/moonshine-image-editor) — image editor
