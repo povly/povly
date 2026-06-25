@@ -20,4 +20,4 @@
 
 - [**Moonshine Media Manager**](https://github.com/yurizoom/moonshine-media-manager) — media file manager
 - [**Moonshine Image Editor**](https://github.com/povly/moonshine-image-editor) — image editor
-- [**MoonShine Flexible Layouts**][https://github.com/povly/moonshine-flexible-layouts] — flexible content blocks
+- [**MoonShine Flexible Layouts**](https://github.com/povly/moonshine-flexible-layouts) — flexible content blocks
