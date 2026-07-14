@@ -31,4 +31,3 @@
 # :art: Figma Plugins
 
 - [**StyleScan**](https://www.figma.com/community/plugin/1658855222411724941) — inspect styles, generate CSS/Tailwind/Flutter/SwiftUI code, browse design tokens, export images, and check WCAG contrast directly in Figma
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/> 
