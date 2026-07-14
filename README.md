@@ -18,7 +18,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=povly&theme=dark&background=000000)](https://git.io/streak-stats)
 
-# :package: Packages for Moonshine
+# :package: Packages for Moonshine Admin Laravel
 
 - [**Moonshine Media Manager**](https://github.com/yurizoom/moonshine-media-manager) — media file manager
 - [**Moonshine Image Editor**](https://github.com/povly/moonshine-image-editor) — image editor
