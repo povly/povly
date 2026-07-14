@@ -27,3 +27,8 @@
 # :rocket: Tools for Zed IDE
 
 - [**Alpine.js LSP**](https://github.com/povly/zed-alpinejs-lsp) — language server for Alpine.js in Zed: hover docs, go-to-definition, and completions for x-data, x-show, \@click, and other Alpine directives across HTML and Blade files
+
+# :art: Figma Plugins
+
+- [**StyleScan**](https://www.figma.com/community/plugin/1658855222411724941) — inspect styles, generate CSS/Tailwind/Flutter/SwiftUI code, browse design tokens, export images, and check WCAG contrast directly in Figma
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/> 
