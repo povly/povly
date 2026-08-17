@@ -11,6 +11,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original-avalonia.svg" title="AvaloniaUI" alt="AvaloniaUI" width="40" height="40"/>&nbsp;
   <img src="https://it-solutions.ua" title="Bitrix" alt="Bitrix" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40"/>
 </div>
 
 # :fire: My Stats :
