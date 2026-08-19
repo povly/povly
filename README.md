@@ -13,10 +13,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40"/>
 </div>
 
-# :fire: My Stats :
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=povly)](https://git.io/streak-stats)
-
 # :package: Packages for Moonshine Admin Laravel
 
 - [**Moonshine Media Manager**](https://github.com/yurizoom/moonshine-media-manager) — media file manager
