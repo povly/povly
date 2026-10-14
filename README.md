@@ -18,10 +18,6 @@
 - [**Moonshine Media Manager**](https://github.com/yurizoom/moonshine-media-manager) — media file manager
 - [**Moonshine Image Editor**](https://github.com/povly/moonshine-image-editor) — image editor
 - [**MoonShine Flexible Layouts**](https://github.com/povly/moonshine-flexible-layouts) — flexible content blocks
-
-# :rocket: Tools for Zed IDE
-
-- [**Alpine.js LSP**](https://github.com/povly/zed-alpinejs-lsp) — language server for Alpine.js in Zed: hover docs, go-to-definition, and completions for x-data, x-show, \@click, and other Alpine directives across HTML and Blade files
   
 # :art: Figma Plugins
 
