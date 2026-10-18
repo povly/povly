@@ -22,3 +22,7 @@
 # :art: Figma Plugins
 
 - [**StyleScan**](https://www.figma.com/community/plugin/1658855222411724941) — inspect styles, generate CSS/Tailwind/Flutter/SwiftUI code, browse design tokens, export images, and check WCAG contrast directly in Figma
+
+# OpenIde
+
+- [**Openide web plugin**]([https://www.figma.com/community/plugin/1658855222411724941](https://github.com/povly/openide-web-plugin)) — web stack for OpenIDE
