@@ -25,4 +25,4 @@
 
 # OpenIde
 
-- [**Openide web plugin**]([https://www.figma.com/community/plugin/1658855222411724941](https://github.com/povly/openide-web-plugin)) — web stack for OpenIDE
+- [**Openide web plugin**]([https://www.figma.com/community/plugin/1658855222411724941](https://github.com/povly/openide-web-plugin) — web stack for OpenIDE
