@@ -25,4 +25,4 @@
 
 # OpenIde
 
-- [**Openide web plugin**](https://github.com/povly/openide-web-plugin) — web stack for OpenIDE
+- [**Web Frontend Plugin**](https://github.com/povly/openide-web-plugin) — web stack for OpenIDE
