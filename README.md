@@ -11,7 +11,9 @@
   <img src="" title="Bitrix" alt="Bitrix" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/32fe1d3b3f36ad11f90ab94f7db59738139c2bf6/icons/zed/zed-original.svg" title="Zed IDE" alt="Zed IDE" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/zed/zed-original.svg" title="Zed IDE" alt="Zed IDE" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="С++" alt="С++" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="СMake" alt="СMake" width="40" height="40">
 </div>
 
 # :package: Packages for Moonshine Admin Laravel
